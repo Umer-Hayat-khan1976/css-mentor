@@ -108,3 +108,6 @@ npm run dev
 ## 8. GitHub repo code link
 
 https://github.com/Umer-Hayat-khan1976/css-mentor
+
+## 9. Important note
+please connect your own Gemini API Key in order to communicate with the app live agent.
