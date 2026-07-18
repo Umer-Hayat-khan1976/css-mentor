@@ -1,0 +1,10 @@
+{
+  "name": "CSS Mentor",
+  "description": "AI-powered mentoring platform for Pakistani CSS & PMS exam preparation with your supportive study companion 'Study Buddy'.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
