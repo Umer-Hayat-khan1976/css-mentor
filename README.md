@@ -63,7 +63,7 @@ Key behavior:
 - **AI:** Google AI Studio / Gemini API
 - **Voice:** Web Speech API 
 - **Database & Auth:** Firebase (Firestore + Firebase Authentication)
-- **Hosting:** Vercel
+- **Hosting:**  Google Cloud Run
 - **Built with:** Google AI Studio app builder
 
 ## 6. How to run the project
