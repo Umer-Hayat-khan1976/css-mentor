@@ -40,7 +40,7 @@ attempt to repeat attempters.
 ## 4. The AI feature
 
 **Agent:** Study Buddy
-**Model:** [Gemini model name/version used]
+**Model:** Gemini model
 
 Study Buddy is grounded with the following system instructions, which keep it
 scoped to CSS/PMS topics and enforce a polite, encouraging tone:
@@ -61,9 +61,9 @@ Key behavior:
 
 - **Frontend:** React, Tailwind CSS
 - **AI:** Google AI Studio / Gemini API
-- **Voice:** [Web Speech API / other service used]
+- **Voice:** Web Speech API 
 - **Database & Auth:** Firebase (Firestore + Firebase Authentication)
-- **Hosting:** [Vercel / other]
+- **Hosting:** Vercel
 - **Built with:** Google AI Studio app builder
 
 ## 6. How to run the project
